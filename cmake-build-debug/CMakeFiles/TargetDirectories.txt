@@ -1,0 +1,3 @@
+/Users/vescoukis/sourcecode/class21-demo1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vescoukis/sourcecode/class21-demo1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vescoukis/sourcecode/class21-demo1/cmake-build-debug/CMakeFiles/class21_demo1.dir
